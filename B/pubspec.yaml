@@ -1,0 +1,5 @@
+name: B
+dependencies:
+  polymer: '0.11.0-dev.4 <0.12.0'
+  A:
+    path: ../A

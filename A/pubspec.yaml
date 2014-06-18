@@ -1,0 +1,3 @@
+name: A
+dependencies:
+  polymer: '0.11.0-dev.6 <0.12.0'

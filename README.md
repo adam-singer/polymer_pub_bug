@@ -1,0 +1,1 @@
+cd B && pub install
